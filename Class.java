@@ -7,12 +7,6 @@ class main String(args [])
 }
 class personne
 {
-	int a;
-	int b;
-	public int somme(int a,int b)
-	{
-		return a+b;
-	}
 	public int Soustraire(int a,int b)
 	{
 		if(a>=b)
