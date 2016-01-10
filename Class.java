@@ -19,5 +19,9 @@ class personne
 		}
 
 	}
+	public int multiplication(int a,int b)
+	{
+		return a*b;
+	}
 
 }
