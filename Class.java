@@ -24,16 +24,15 @@ class personne
 		return a*b;
 	}
 
-<<<<<<< HEAD
+
 	public int Addition(int a,int b)
 	{
 		return a+b;
 	}
 
-=======
 	public int Division(int a, int b) {
 		
 		return a/b;
 	}
->>>>>>> origin/Fonctioannalite1
+
 }
