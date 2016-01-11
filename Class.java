@@ -24,4 +24,9 @@ class personne
 		return a*b;
 	}
 
+	public int Addition(int a,int b)
+	{
+		return a+b;
+	}
+
 }
