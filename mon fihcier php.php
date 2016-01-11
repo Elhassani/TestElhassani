@@ -1,7 +1,7 @@
 <?php 
 
 echo 'fine al khot :)';
-echo "sir golha lkhaltek li tat9ra f hadchi";
-echo "hmida et 3llalf soo9";
+klk,f
+echo "hmida et 3llalfffff";
 
 ?>
